@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int i, absentCount = 0;
     char attendance;
     int employeeID;
@@ -30,6 +30,7 @@ int main() {
     } else {
         printf("Attendance is satisfactory.\n");
     }
+Getch()
 
-    return 0;
+    
 }
