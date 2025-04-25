@@ -5,7 +5,7 @@ int main() {
     int number;
 
     // Input from the user
-    cout << "Enter a number: ";
+    cout << "Enter a number: "; 
     cin >> number;
 
     // Check if the number is a multiple of 7 or 11
