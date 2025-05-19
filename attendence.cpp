@@ -3,7 +3,7 @@
 int main(void) {
     int i, absentCount = 0;
     char attendance;
-    int employeeID;
+    int employeeID; 
 
     printf("Enter Employee ID: ");
     scanf("%d", &employeeID);
